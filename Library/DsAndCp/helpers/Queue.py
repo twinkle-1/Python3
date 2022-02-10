@@ -1,4 +1,6 @@
 from Node import DynamicNode
+
+
 class Queue:
     def __init__(self, Node, max_items):
         self.Node = Node

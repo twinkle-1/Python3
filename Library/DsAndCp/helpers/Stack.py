@@ -1,4 +1,6 @@
 from Node import DynamicNode
+
+
 class Stack:
     def __init__(self, Node, max_items):
         self.head = None
